@@ -1,3 +1,2 @@
 # Landing-Page
-A simple and responsive landing page built using HTML, CSS and Java Script. This project showcases my frontend design skills with clean layout, responsive design, and a focus on user experience.
-
+This is a responsive landing page themed around Nature, built using HTML, CSS, and JavaScript. It features a modern layout with a navigation bar, engaging content, and social media links. The design promotes environmental awareness with smooth visuals and clean code. Perfect for showcasing frontend design and layout skills.
